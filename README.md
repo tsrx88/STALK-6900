@@ -1,4 +1,4 @@
-# EARN6900X STALK Bot 🔍
+# STALKER6900 STALK Bot 🔍
 
 This version of the EARN6900X bot uses token data filtered from **Stalk.fun**, giving you sniper-level alerts on tokens that already passed basic rug filters and volume thresholds.
 
